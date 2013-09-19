@@ -1,0 +1,44 @@
+.top-nav h1 {
+    text-align: fixed
+    color: white;
+    float: left;
+    font-size: 32px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    background-color: black;
+    height: 64px;
+    line-height: 64px;
+    width: 50%;
+}
+
+.top-nav ul {
+    background-color: black;
+    color: white;
+    float: right;
+    width: 50%;
+}
+
+.content .container {
+    margin: 0px auto;
+    width: 400px;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+h2, h3 {
+    clear: both;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 48px;
+}
